@@ -1,5 +1,6 @@
 body
 {
+    overflow-x:hidden;
     margin:0;
     background: #1D0F0F;
 }
@@ -140,22 +141,6 @@ margin-left: -3%;
     margin-top: -16vw;
     font-family: "Yu Gothic UI Light";
 }
-.Text1_6
-{
-    color:black;
-    font-size: 3vw;
-    width:25vw;
-    height:25vw;
-    background: #312e00;
-    border-radius: 20vw;
-    display: flex;
-    align-items: center;
-    justify-content:center ;
-    text-align: center;
-    margin-left: 97%;
-    margin-top: -16vw;
-    font-family: "Yu Gothic UI Light";
-}
 .Text1_5>span
 {
     width:20vw;
@@ -230,22 +215,6 @@ margin-left: -3%;
     background: #4f4c00;
     margin-left:80vw;
     margin-top: -16vw;
-}
-.Text2_6
-{
-    color:black;
-    font-size: 3vw;
-    width:25vw;
-    height:25vw;
-    background: #312e00;
-    border-radius: 20vw;
-    display: flex;
-    align-items: center;
-    justify-content:center ;
-    text-align: center;
-    margin-left: 100%;
-    margin-top: -16vw;
-    font-family: "Yu Gothic UI Light";
 }
 .Text3
 {
