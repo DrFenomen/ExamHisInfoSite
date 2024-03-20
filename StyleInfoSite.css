@@ -99,18 +99,18 @@ footer>ul
 .Text1_1
 {
     background: #ECE300;
-margin-left: -3%;
+margin-left: -1%;
 }
 .Text1_2
 {
     background: #d3cb01;
-    margin-left: 17%;
+    margin-left: 19%;
     margin-top: -16vw;
 }
 .Text1_3
 {
     background: #a29c01;
-    margin-left: 37%;
+    margin-left: 39%;
     margin-top: -15.5vw;
 }
 .Text1_4
@@ -124,7 +124,7 @@ margin-left: -3%;
     display: flex;
     align-items: center;
     text-align: center;
-    margin-left: 57%;
+    margin-left: 59%;
     margin-top: -14.7vw;
     font-family: "Yu Gothic UI Light";
 }
@@ -140,7 +140,7 @@ margin-left: -3%;
     align-items: center;
     justify-content:center ;
     text-align: center;
-    margin-left: 77%;
+    margin-left: 79%;
     margin-top: -16vw;
     font-family: "Yu Gothic UI Light";
 }
@@ -182,18 +182,18 @@ margin-left: -3%;
 {
     background: #ECE300;
     margin-top: 5vw;
-    margin-left: -1vw;
+    margin-left: -1%;
 }
 .Text2_2
 {
     background: #d3cb01;
-    margin-left: 20vw;
+    margin-left: 19%;
     margin-top: -17.5vw;
 }
 .Text2_3
 {
     background: #a29c01;
-    margin-left: 40vw;
+    margin-left: 39%;
     margin-top: -17.8vw;
 }
 .The_Selected_Text
@@ -204,7 +204,7 @@ margin-left: -3%;
 .Text2_4
 {
     background: #837f00;
-    margin-left: 60vw;
+    margin-left: 59%;
     margin-top: -15vw;
 }
 .Text2_5>span
@@ -216,7 +216,7 @@ margin-left: -3%;
 {
 
     background: #4f4c00;
-    margin-left:80vw;
+    margin-left:79%;
     margin-top: -16vw;
 }
 .Text3
