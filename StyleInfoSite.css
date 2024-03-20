@@ -130,6 +130,7 @@ margin-left: -1%;
 }
 .Text1_5
 {
+    overflow-x: hidden;
     color:black;
     font-size: 3vw;
     width:25vw;
@@ -214,7 +215,7 @@ margin-left: -1%;
 }
 .Text2_5
 {
-
+    overflow-x: hidden;
     background: #4f4c00;
     margin-left:79%;
     margin-top: -16vw;
