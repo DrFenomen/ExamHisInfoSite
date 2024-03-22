@@ -35,13 +35,22 @@ body
     }
     .Nav_Selection
     {
+        display: flex;
         animation: nav 1s;
         font-family: "Yu Gothic UI Light";
-        width:10vw;
+        width:12vw;
         height:4.5vh;
-        align-content: center;
+        justify-content: center;
+        align-items: center;
         background: #D4DBE2;
+        border-radius: 5vw;
+
+    }
+    .Nav_Selection>a
+    {
         font-size: 1vw;
+        text-decoration: none;
+        color: black;
     }
 }
 @media(max-width: 426px)
@@ -76,15 +85,23 @@ body
     }
 
     .Nav_Selection
-     {
+    {
+        display: flex;
         animation: nav 1s;
-         font-family: "Yu Gothic UI Light";
-         width:20vw;
-         height:3vh;
-         align-content: center;
-         background: #D4DBE2;
-         font-size: 2.5vw;
-     }
+        font-family: "Yu Gothic UI Light";
+        width:20vw;
+        height:3vh;
+        justify-content: center;
+        align-items: center;
+        background: #D4DBE2;
+        border-radius: 5vw;
+    }
+    .Nav_Selection>a
+    {
+        font-size: 2vw;
+        text-decoration: none;
+        color: black;
+    }
 }
 @keyframes BackG {
 from{ background: #1D0F0F;}
