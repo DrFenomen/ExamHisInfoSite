@@ -6,6 +6,18 @@ body
 }
 @media(min-width: 768px)
 {
+    .Text3
+{
+    animation: color 3s;
+    font-family: "Yu Gothic UI Light";
+    font-size: 4vw;
+    color:white;
+    margin-top: 10vw;
+    margin-bottom: 10vw;
+    text-align: center;
+    width:34%;
+    margin-left: 33%;
+}
     nav
     {
         animation: nav 1s;
@@ -55,6 +67,19 @@ body
 }
 @media(max-width: 426px)
 {
+    .Text3
+{
+    animation: color 3s;
+    font-family: "Yu Gothic UI Light";
+    font-size: 4vw;
+    color:white;
+    margin-top: 10vw;
+    margin-bottom: 10vw;
+    text-align: center;
+    width:34%;
+    margin-left: 33%;
+    margin-bottom:40vh;
+}
     nav
     {
         animation: nav 1s;
