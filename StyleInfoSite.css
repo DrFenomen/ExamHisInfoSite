@@ -74,7 +74,7 @@ body
     font-size: 4vw;
     color:white;
     margin-top: 10vw;
-    margin-bottom: 40vw;
+    margin-bottom: 90vw;
     text-align: center;
     width:34%;
     margin-left: 33%;
@@ -147,7 +147,6 @@ from{ background: #1D0F0F;}
 }
 footer
 {
-    margin-top:30vw;
     display: flex;
     align-items:center;
     background: #453C41;
