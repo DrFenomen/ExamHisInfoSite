@@ -148,7 +148,7 @@ from{ background: #1D0F0F;}
 }
 footer
 {
-    margin-bottom:-40vh;
+    margin-top:40vw;
     display: flex;
     align-items:center;
     background: #453C41;
@@ -157,7 +157,7 @@ footer
 }
 footer>ul
 {  
-    margin-bottom:-40vh;
+    margin-top:40vw;
     font-size: 2.5vw;
     font-family: sans-serif;
     list-style-type: none;
